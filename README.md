@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chien Nguyen</h1> 
+- 📫 How to reach me: **chiennq.dev@gmail.com**
 
-<!--
-**chiennq2/chiennq2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://m.me/100011524450031" target="blank"><img align="center" src="https://www.svgrepo.com/show/512484/messager-177.svg" alt="chiennq" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="both">
+<div align="center">
+<img src="https://raw.githubusercontent.com/chiennq2/chiennq2/output/chiennq2.svg" alt="Snake animation" />
+<a href="https://app.daily.dev/quangchien2503"><img src="https://api.daily.dev/devcards/v2/2NoJ-4FUYe.png?type=wide&r=2dm" width="652" alt="Chien Nguyen's Dev Card"/></a>/div>
